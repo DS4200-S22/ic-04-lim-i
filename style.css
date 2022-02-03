@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+.container {
+  border-style: solid;
+}
+
+/* Center "Intro to HTML and CSS" and your name.
+Give any objects with the class "container" a black border.
+Give any objects with the class "italic" italicized font. */
